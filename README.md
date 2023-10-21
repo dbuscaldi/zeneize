@@ -8,3 +8,5 @@ Text composed by:
 - Ligurian part from Wikisource: https://lij.wikisource.org/wiki/Z%C3%AAna_e_cont%C3%B3rni
 
 Note: De André part has been temporarily removed to check copyright compliance of the corpus
+
+This work is licensed under CC BY-SA 4.0 
